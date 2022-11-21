@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"ready-or-not",
+			"Sponge",
+			[
+				255,
+				255,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Ready or not, here I come! HAHAHAHAHA!!",
+	"weekName": "Spongeboy week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
