@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spongeboy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				894,
+				-132
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spongeboy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-126
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spongeboy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spongeboy Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				981,
+				-141
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Spongeboy Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby Spongeboy",
+	"position": [
+		-90,
+		40
+	],
+	"healthicon": "Sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		255,
+		119
+	],
+	"camera_position": [
+		-120,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

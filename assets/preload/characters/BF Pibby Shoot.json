@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				27,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				20,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				8,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				110,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
+		},
+		{
+			"offsets": [
+				40,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "scared"
+		},
+		{
+			"offsets": [
+				297,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfsrvw",
+	"position": [
+		120,
+		430
+	],
+	"healthicon": "Pibby BF",
+	"flip_x": true,
+	"healthbar_colors": [
+		73,
+		28,
+		178
+	],
+	"camera_position": [
+		20,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

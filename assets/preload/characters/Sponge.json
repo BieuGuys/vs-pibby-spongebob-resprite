@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-261
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sponge Sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-261
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sponge Sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-261
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sponge Sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-258
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sponge Laugh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-43,
+				-260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sponge Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sponge",
+	"position": [
+		-80,
+		40
+	],
+	"healthicon": "Sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		255,
+		119
+	],
+	"camera_position": [
+		60,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
